@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
-const sanitize = require('./sanitize');
+const decodeTitle = require('./helpers/decode');
 
 const handleErr = err => {
   if (err) throw err;
@@ -14,16 +14,20 @@ const getLyrics = (song, version, stream) => {
     handleErr(err);
     // where do song lyrics start
     const start = data.indexOf(`${song} - start\n`);
-    // where do song lyrics end
-    const end = data.indexOf(`\n${song} - end`);
-    const offset = Buffer.from(`${song} - start\n`).length;
-    const reading = fs.createReadStream(file, {
-      // + offset to exclude "[song title] - start" from output
-      start: start + offset,
-      end
-    });
-    reading.pipe(stream);
-    reading.on('close', () => stream.end());
+    if (start === -1) {
+      stream.end('not found');
+    } else {
+      // where do song lyrics end
+      const end = data.indexOf(`\n${song} - end`);
+      const offset = Buffer.from(`${song} - start\n`).length;
+      const reading = fs.createReadStream(file, {
+        // + offset to exclude "[song title] - start" from output
+        start: start + offset,
+        end
+      });
+      reading.pipe(stream);
+      reading.on('close', () => stream.end());
+    }
   });
 };
 
@@ -34,11 +38,10 @@ http.createServer((req, res) => {
     res.writeHead(200, {
       'Content-Type': 'text/plain;charset=utf-8'
     });
-    // if jp characters in URL, need to undo percent encoding to test cases
-    // only sanitize() input if there's actually some input
-    const titleDecoded = decodeURIComponent(urlParts[2] !== '' ? sanitize(urlParts[2]) : '');
+    const titleDecoded = decodeTitle(urlParts[2]);
     // routing
-    switch (titleDecoded) {
+    getLyrics(titleDecoded, 'jp', res);
+    /* switch (titleDecoded) {
       case '街':
         getLyrics('街', 'jp', res);
         break;
@@ -85,6 +88,6 @@ http.createServer((req, res) => {
       default:
         res.end('song not found');
         break;
-    }
+    } */
   }
 }).listen(3000);
