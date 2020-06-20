@@ -1,0 +1,21 @@
+{
+  "name": "kenshi-yonezu-lyrics-api",
+  "version": "1.0.0",
+  "description": "Lyrics (both original & romaji) for all songs by the legendary Kenshi Yonezu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {}
+}
