@@ -1,6 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
+const sanitize = require('./helpers/sanitize');
 const decodeTitle = require('./helpers/decode');
 
 const handleErr = err => {
@@ -40,56 +41,14 @@ http.createServer((req, res) => {
     res.writeHead(200, {
       'Content-Type': 'text/plain;charset=utf-8'
     });
-    const titleDecoded = decodeTitle(urlParts[2]);
-    // routing
-    getLyrics(titleDecoded, 'jp', res);
-    /* switch (titleDecoded) {
-      case '街':
-        getLyrics('街', 'jp', res);
-        break;
-      case 'ゴーゴー幽霊船':
-        getLyrics('ゴーゴー幽霊船', 'jp', res);
-        break;
-      case '駄菓子屋商売':
-        getLyrics('駄菓子屋商売', 'jp', res);
-        break;
-      case 'caribou':
-        getLyrics('caribou', 'jp', res);
-        break;
-      case 'あめふり婦人':
-        getLyrics('あめふり婦人', 'jp', res);
-        break;
-      case 'ディスコバルーン':
-        getLyrics('ディスコバルーン', 'jp', res);
-        break;
-      case 'vivi':
-        getLyrics('vivi', 'jp', res);
-        break;
-      case 'トイパトリオット':
-        getLyrics('トイパトリオット', 'jp', res);
-        break;
-      case '恋と病熱':
-        getLyrics('恋と病熱', 'jp', res);
-        break;
-      case 'Black Sheep':
-      case 'Black_Sheep': // in case it feels awkward typing a space in a URL
-        getLyrics('Black Sheep', 'jp', res);
-        break;
-      case '乾涸びたバスひとつ':
-        getLyrics('乾涸びたバスひとつ', 'jp', res);
-        break;
-      case '首なし閑古鳥':
-        getLyrics('首なし閑古鳥', 'jp', res);
-        break;
-      case '心像放映':
-        getLyrics('心像放映', 'jp', res);
-        break;
-      case '抄本':
-        getLyrics('抄本', 'jp', res);
-        break;
-      default:
-        res.end('song not found');
-        break;
-    } */
+    const language = sanitize(urlParts[1]);
+    // make sure user chooses either original lyrics or romaji
+    if (!(['jp', 'ro'].includes(language))) {
+      res.end('not found');
+    } else {
+      const titleDecoded = decodeTitle(urlParts[2]);
+      // routing
+      getLyrics(titleDecoded, 'jp', res);
+    }
   }
 }).listen(3000);

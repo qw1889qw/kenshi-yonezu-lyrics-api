@@ -17,6 +17,9 @@ thanks to these sources for original lyrics:
 - [this YT comment](https://www.youtube.com/watch?v=Y4_vXzyOJHE&lc=UgyToLOsV4UblSAOv314AaABAg)
 - [this other YT comment](https://www.youtube.com/watch?v=1s84rIhPuhk&lc=UgwKjHxckcjQq0ND9zN4AaABAg)
 
+thanks to these sources for romaji:
+- vgperson.com (fixed some errors)
+
 dates from https://ja.wikipedia.org/wiki/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%E3%81%AE%E4%BD%9C%E5%93%81
 
 note: if this violates anyone's ToS, I could scrap this project
