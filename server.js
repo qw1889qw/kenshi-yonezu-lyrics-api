@@ -13,13 +13,15 @@ const getLyrics = (song, version, stream) => {
   fs.readFile(file, (err, data) => {
     handleErr(err);
     // where do song lyrics start
-    const start = data.indexOf(`${song} - start\n`);
+    const start = data.indexOf(`\n${song} - start\n`);
     if (start === -1) {
       stream.end('not found');
     } else {
       // where do song lyrics end
+      // \n just in case two songs' titles end the same way & we don't get the right match
+      // (no problem so far)
       const end = data.indexOf(`\n${song} - end`);
-      const offset = Buffer.from(`${song} - start\n`).length;
+      const offset = Buffer.from(`\n${song} - start\n`).length;
       const reading = fs.createReadStream(file, {
         // + offset to exclude "[song title] - start" from output
         start: start + offset,
