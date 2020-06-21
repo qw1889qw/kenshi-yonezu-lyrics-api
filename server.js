@@ -48,7 +48,7 @@ http.createServer((req, res) => {
     } else {
       const titleDecoded = decodeTitle(urlParts[2]);
       // routing
-      getLyrics(titleDecoded, 'jp', res);
+      getLyrics(titleDecoded, language, res);
     }
   }
 }).listen(3000);
