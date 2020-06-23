@@ -16,7 +16,8 @@ thanks to these sources for original lyrics:
 - utaten.com
 - j-lyric.net
 - [this YT comment](https://www.youtube.com/watch?v=Y4_vXzyOJHE&lc=UgyToLOsV4UblSAOv314AaABAg)
-- [this other YT comment](https://www.youtube.com/watch?v=1s84rIhPuhk&lc=UgwKjHxckcjQq0ND9zN4AaABAg)
+- [this YT comment](https://www.youtube.com/watch?v=1s84rIhPuhk&lc=UgwKjHxckcjQq0ND9zN4AaABAg)
+- [this YT comment](https://www.youtube.com/watch?v=WLEPU7DqLzg&lc=Ugy1F0c3Qwnm3kCcmWN4AaABAg)
 
 thanks to these sources for romaji:
 - vgperson.com (fixed some errors)

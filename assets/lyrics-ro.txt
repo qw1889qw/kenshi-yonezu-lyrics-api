@@ -172,7 +172,7 @@ caribou - start
 nee, anata no iu koto wa shiryobukasugite horebore to suru wa
 oshiete yo sono kotoba sono tetsugaku no kaeru basho ni tsuite
 zeijaku da zeijaku da zeijaku da sou yatte nan datte jousou to sessou ga nai na
-itsu datte itteru janai suteki na kotoba mata tonaete misete!
+itsudatte itteru janai suteki na kotoba mata tonaete misete!
 
 sou yatte mata hakichirashite sa doudoumeguri mo yame ni shiyou
 kotoba o kui ni uchitsukete misebirakasu no wa warui shumi da
@@ -704,7 +704,7 @@ anata wa sukoshi waratta
 santa maria nanimo iwanai sa
 mayou dake no kotoba de mitasu kurai naraba
 samazama na shiawase o kudaite
-inori tsukare youyaku anata ni aeta no dakara
+inoritsukare youyaku anata ni aeta no dakara
 issho ni ikou ano hikari no hou e
 te o tsunagou imi nanka nakutatte
 
@@ -739,7 +739,7 @@ shinjiru koto o yamerarenai you ni
 santa maria nanimo iwanai sa
 mayou dake no kotoba de mitasu kurai naraba
 samazama na shiawase o kudaite
-inori tsukare youyaku anata ni aeta no dakara
+inoritsukare youyaku anata ni aeta no dakara
 issho ni ikou ano hikari no hou e
 te o tsunagou imi nanka nakutatte
 
@@ -1573,7 +1573,7 @@ mou, dou ni mo kokoro o tomerare ya shinai
 anta ga heya ni nokoshitetta CHERRY BONBON no ii kaori
 konna yoru mataide asa fusaide
 kon'ya mo douda uso o tsuite mata ikeshasha to odoru no ka
-Ourai tachisukumeba shijima no naka
+ourai tachisukumeba shijima no naka
 
 kokoro koko ni arazu no mama de oorai oorai
 kowai kuenai oenai machigai
@@ -1641,7 +1641,7 @@ kono kanjou wa umare motteita tte
 kizuita koro ni kimi wa doko ni mo inai nante
 yorube naku yoru ni ochiteiku
 koko wa isshun o tsunaide tsukutta
-Kako to mirai no wazuka na sukima KARMA CITY
+kako to mirai no wazuka na sukima KARMA CITY
 kimi wa hora machi o hazurete kieteiku
 
 kieteiku
@@ -1717,3 +1717,485 @@ anata no namae wa
 donut hole - end
 
 [Flowerwall (2015-01-14)]
+
+flowerwall - start
+ano hi kimi ni deaeta sono toki kara
+toumei no chi ga bokura futari ni kayoi
+kanashimi mo yasashisa mo kibou mo mata zetsubou mo
+wakeaeru you ni natta
+
+shiritai koto ga ikutsu mo aru to iu no ni
+bokura no jikan wa amari ni mijikaku
+ato dore hodo darou ka kimi to sugosu jikan wa
+akari ga kireru no wa
+
+kimi no sono koe ga yasashiku hibiita
+konna urei o fuite tobasu you ni
+
+FLOWERWALL me no mae ni irotoridori no hana de dekita
+kabe ga ima tachifusagaru
+bokura o kobamu no ka
+nanika kara mamoru tame nano ka
+wakarazu ni tachisukunderu
+
+sore o bokura wa "unmei" to yobinagara
+itsumademo te o tsunaideita
+
+kono amari ni hiroi sekai de bokutachi wa
+imi mo naku onaji basho ni tatteta no ni
+boku no kaketa tokoro to kimi no kaketa tokoro o
+nazeka otagai ni motteita
+
+doushite bokura wa meguriaeta no ka
+sono tame dake ni umaretekita you na
+
+FLOWERWALL hitori dewa katazukerarenai mono darou to
+kimi ga itekuretara hora
+kagiri nai zetsubou mo
+kotae ga dasenai toi mo zenbu
+hitotsuzutsu irozuiteiku
+
+hanasenainda moshimo te o hanaseba
+nido to tsukamenai you na ki ga shite
+
+daremo shiranai mita koto mo nai
+mono naraba ima bokura de namae o tsukeyou
+
+koko ga jigoku ka tengoku ka
+kimeru no wa sou
+futari ga eranda michi shidai
+
+FLOWERWALL me no mae ni irotoridori no hana de dekita
+kabe ga ima tachifusagaru
+bokura o kobamu no ka
+nanika kara mamoru tame nano ka
+wakarazu ni tachisukunderu
+
+sore demo ureshii no sa
+kimi to michi ni mayoeru koto ga
+takusan o wakeaeru no ga
+FLOWERWALL bokura ima futari de ikiteiku koto o
+yamerarezu waraiaunda
+
+sore o bokura wa "unmei" to yobinagara
+itsumademo te o tsunaideita
+flowerwall - end
+
+zange no machi - start
+itsu no hi ka ki ga tsuitara tsukuriwarai ga umakunarimashita
+machi no kado o magarikunette kurikaeshite koko made kimashita
+dono kado de dono ourai de machigaetanda
+zutto mae no otoshimono o sagashimawatte
+
+itsu no hi ka ki ga tsuitara naku koto mo sukunakunarimashita
+umarete konokata boku wa kono machi no naka arukimawarimashita
+ano roji mo ano kouen mo chiisakunatte
+sode no tarinai fuku o mada kitsuzuketeiru
+
+seija no koushin ga sanbika to inori ga
+kono machi o houtai de kurunde
+ieru no o matteiru
+boku wa kuyamitsuzuketeiru
+
+itsu no hi ka ki ga tsuitara tooku made ga mienakunarimashita
+gaitou no akari ga hajikete hanabi mitai na fuu ni miemashita
+ima dareka no kokoro no naka mitai kuse ni
+chotto saki no kanban no moji sura mienai
+
+to aru hi no machiaishitsu de onna no hito to issho ni narimashita
+utsushiku warau hito de donna kotoba mo tsukusemasen ga
+onnaji you ni kono machi de ikiteru no ni
+sou omou to hazukashikute tamaranakute
+
+tenshi no yuugi ga megami no iki ga
+kono machi ni mizu o motarashite
+ieru no o matteiru
+boku wa kuyamitsuzuketeiru
+
+seija no koushin ga sanbika to inori ga
+kono machi o houtai de kurunde
+ieru no o matteiru
+boku wa kuyamitsuzuketeiru
+
+tenshi no yuugi ga megami no iki ga
+kono machi ni mizu o motarashite
+ieru no o matteiru
+boku wa kuyamitsuzuketeiru
+
+sore demo asu wa kuru
+zange no machi - end
+
+petrichor - start
+kore wa yume kamoshirenai fukaku kiri no tachikometa basho de
+hitori arukitsuzuketa doko e mukau no ka wakaranai mama
+
+ima nani no ate mo naku imi mo mitsukarazu mayoidasu kokoro wa yureru
+bianko no umi
+RAINCOAT o hau suiteki ga hajikete wa ochiteiku munashisa wa mada
+tsunotteiku
+
+mata boku wa daiji na koto o wasurete samayou bourei
+itsu made tatte mo utaenai machigai sae mo wakaranai
+koko wa ima kuukyo na yume no sekai to sou omoikonde
+boku wa aruitekundatte sakebitsukareta mama
+
+kore wa yume kamoshirenai da to sureba itsu me ga sameru no ka
+moshimo samenu yume nara sore wa yume to yoberu darou ka
+
+omotai karada ni musekaeru ame ga furi kitto mada kokoro wa yureru
+tarunda kuuki
+taisanboku no tsubomi wa iki o tsuki nemutteiru munashisa wa mada
+tsunotteiku
+
+kowagatte tamerai shite doushiyou mo naku samayou bourei
+dareka no sei ni shiteshimaitai sore sura doumo muzukashii
+koko wa ima kuukyo na yume no sekai to sou omoikonde
+tadatada sou omoikonde munashisa ga noshikakaru
+
+mata boku wa daiji na koto o wasurete samayou bourei
+itsu made tatte mo utaenai machigai sae mo wakaranai
+koko wa ima kuukyo na yume no sekai to sou omoikonde
+boku wa aruitekundatte sakebitsukareta mama
+
+arukitsuzuketa mama
+petrichor - end
+
+[Unbelievers (2015-09-02)]
+
+unbelievers - start
+HEADLIGHT ni oshidasarete
+bokura wa aruita HIGHWAY no ue o
+kono michi no saki o inotteita
+shangurira o yume miteita
+
+dare ga donna ni utagaou to
+boku wa aishiteru yo kimi no subete o
+moshimo kamisama ga ita no naraba
+boku to onaji koto o iu darou
+
+nani saretatte iwaretatte ii
+kizutsuite mo heiki de irarerunda
+dakara te o totte bokura to ikou ze
+koko dewa nai tooku no hou e
+
+ima wa shinjinai hate no nai kanashimi o
+taiyou o miteita jimen ni tachisukunda mama
+sore demo bokura sora o tobou to yume o mite asa o tsunaideiku
+subete uketomete issho ni waraou ka
+
+TAILLIGHT ni michibikarete
+bokura wa aruita HIGHWAY no ue o
+ki ga tsukeba seowasareteita
+omotai nimotsu o suterarezu ni
+
+dare no sei ni mo dekinainda
+owari ni shiyou yo koukai no uta wa
+tooku de hikaru machiakari ni
+sayonara o shite mae o mukou
+
+kenasareyou to baka ni sareyou to
+kimi ga boku o mitsumetekureru nara
+kirakira hikatta pachipachi hajiita
+mahou datte tsukaeru you na
+
+ima wa shinjinai zankoku na ketsumatsu nante
+bokura UNBELIEVERS nando demo haiagatteiku
+kaze ga fukunda doko e ikou to tsunaida ashiato no mukou e to
+mada owaranai tabi ga buji de aru you ni
+
+sou ka sore ga hikari naraba
+sonna mono iranai yo boku wa
+koushite chanto ikiteru kara
+shinpai iranai yo
+
+kaeru basho mo naku bokura wa
+zutto mukou made nigerunda
+donna basho e tadoritsukou to
+geragera waratte yarou ze
+
+ima wa shinjinai hate no nai kanashimi o
+taiyou o miteita jimen ni tachisukunda mama
+sore demo bokura sora o tobou to yume o mite asa o tsunaideiku
+subete uketomete issho ni waraou ka
+unbelievers - end
+
+tabibito dentou - start
+boku wa furui dentou sabaku no mannaka de hitori
+sora ni ana ga aite akari ga moreru yoru
+
+kogoeta suna no ue bohyou no tachinarabu basho de
+iki o suikonda hai ippai suikonda
+
+"dareka dareka boku o sagashite okure
+samishii yoru o hitotsu kiritotte okure
+tooku tooku chi no hate made todoku you ni boku wa
+terashite iru kara itsudemo"
+
+boku wa furui dentou hokori ni mamirete wa hitori
+kareta ido no fuchi ni mishiranu kubikazari
+
+itsu no ma ni ka koko wa toshi kara sabaku e to kawari
+anna ni nigiwatta tooi kako mo maboroshi
+
+"dareka dareka boku o mitsukete okure
+aoi aoi umi e tsuretette okure
+amai nioi o furiharai tsuzukeru tame boku wa
+tomotte iru kara itsudemo"
+
+mitsumeteru yo boku wa ima mo
+chikyuu no ue de hikaru hoshi da
+daremo boku o shiranaku tomo
+mada minu anata no tame ni hikaru
+
+mitsumeteru yo boku wa ima mo
+yami no naka ikiru dentou da
+kesenai kizu mo kienai mama
+akari wa tabidachi uta o utau
+
+mitsumeteru yo boku wa ima mo
+chikyuu no ue de hikaru hoshi da
+daremo boku o shiranaku tomo
+mada minu anata no tame ni hikaru
+
+anata ni aitai na
+tabibito dentou - end
+
+kokoro ni kudamono - start
+nakitai toki wa utau no sa
+oishii kudamono kotoba ni nosete
+soshitara fushigi na kurai ni sa
+kimochi ga yasuragunda
+
+piano no oto ga shiteita yo
+ima dewa zenzen kikoenai kedo
+ano ko wa kiku to kono aida
+tooku e hikkoshita tte
+
+mune no oku kokoro no naka ni aru
+kudamono ga namida o suikomi
+sukoshizutsu ookiku narunda
+sono tabi ni boku mo mata otona ni natteiku
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+nakitai toki wa utau no sa
+oishii kudamono kotoba ni nosete
+dare ni mo shirarenai you ni
+kokage ni kakurenagara
+
+onnaji toko de nankai mo
+machigau heta na piano no oto demo
+boku ni wa tokubetsu datta yo
+
+mune no oku yoridorimidori no
+kudamono ga kanashimi o taberu
+ima kimi wa nani o shiteru kana
+kimi mo mata boku mo mata otona ni natteiku
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+ringo remon budou meron
+ichigo banana mikan kiui
+
+ringo remon budou meron
+ichigo banana mikan kiui
+kokoro ni kudamono - end
+
+[Bremen (2015-10-07)]
+
+fluorite - start
+kimi ga machi o tatsu mae no hi ni boku ni kureta omamori
+sore ga ima mo kagayaita mama kimi wa tabi ni deteita
+ima wa doko de nani o shiteru kana shinpai nanka shitenai
+kimi no koto dakara na
+
+kimi ga omou yori mo kimi wa boku no hibi o kaetanda
+futari de iru yoru no yami ga anna ni kokochi ii nante
+kono sekai no subete o sebameta no wa jibunjishin tte koto
+kimi ni osowatta kara
+
+kowasou to omoeba mata daku no ni kowaseteshimau mono o
+boku wa mada kowaresou na hodo daiji ni nigirishimeteru
+
+FLUORITE FLUORITE konna mono ga
+sekai de ichiban kagayaite mieru no wa
+FLUORITE FLUORITE kitto kimi ga
+taisetsu de iru nani yori no akashi darou
+
+tashikametetanda yo bokura wa zutto me ni wa mienai mono o
+fui ni sore wa nanika o tooshite futatabi deau
+
+yoru ga akereba hi ga noboru michi wa eien ni tsuzuku
+suteki na mahou de afureteru bokura wa ima o ikiteiru
+sore to onaji kurai ni kimi no koto o Shinjiteru tte koto
+kimi wa warau darou ka
+
+kakushou nante no wa hitotsu mo nai Demo ne boku wa mayowanai
+kimi ga shinjita koto nandakara boku ni wa sore de juubun sa
+
+FLUORITE FLUORITE konna mono ga
+naiteiru you ni mieru you na ki ni naru no wa
+FLUORITE FLUORITE itsuka kimi ga
+naiteita kao o futto omoidasu kara darou
+
+setsumei ga tsukanai bokura no konna kokoro mo subete tooshite
+itsudatte kimi ga waraeru you na shiawase wo negau
+
+FLUORITE FLUORITE konna mono ga
+sekai de ichiban kagayaite mieru no wa
+FLUORITE FLUORITE kitto kimi ga
+taisetsu de iru nani yori no akashi darou
+
+tashikametetanda yo bokura wa zutto me ni wa mienai mono o
+fui ni sore wa nanika o tooshite futatabi deau
+fluorite - end
+
+saijouei - start
+koko wa gekijougai ikutsumo no eiga o
+tada hitasura utsushidasu taikutsu na machi hikari bakari medatsu
+kabe ichimen no koukoku no naka de
+boku wa sono hitotsu o erabikirezu tsuttatta mama iru
+
+kurikaeshi omoifukete yatto nanika mitsukete tadoritsuita tokoro de
+sore wa kodomo no koro ni mita mono no tada no saijouei
+
+"sonna uta demo boku wa utau sa nando demo kurikaeshi sono kotae o
+tatoe sekai ga kawaranaku tomo itsumademo sakebu yo sono kotae o"
+
+koko wa gekijougai kankyaku mo mabara
+sore demo kuruinaku enja wa utau hikari no mukou de
+natsukashii you na tsumaranai you na
+tada hitasura sore o usu bonyari to mite toki wa sugiteiku
+
+koko de ikiteru boku wa kare to dou chigau no darou?
+nanimo dekinai mama de yaru ki mo naku tada kuchi o hiraite hibi o tsubusu boku to
+
+"konna boku demo kaze ni osarete nando to naku mirai e hakobaretekita
+kitto itsu shika boku ni tsuzuite utau hito e kotoba o hikitsugu tame"
+
+yatto eiga wa owatte seki o tatte nao boku wa
+kare no serifu ga zutto atama de hibiku
+ashita wa tabun konna kyou ni niteiru mainichi
+kanashikunaru kurai ni wasureteiku hibi de
+sou da boku wa ikiteirunda
+teaka ni mamireteiyou to
+
+"sonna uta demo boku wa utau sa nando demo kurikaeshi sono kotae o
+tatoe sekai ga kawaranaku tomo itsumademo sakebu yo sono kotae o"
+saijouei - end
+
+atashi wa yuurei - start
+makka na ringo ni chiisana LAMP
+akari ga sashikonda SOFA no ue de
+anata wa itsumo no you ni nemutte
+atashi wa kagami no naka de hitasura
+akumu ga toonoku you ni inotta
+
+anata no hitomi wa itsudatte kirei de
+kokoro no oku made misukasu you da
+sono suishoutai ga utsusu sekai de
+atashi wa dounika ikitemitakute
+hitasuta kokoro ni LEMON o daita
+
+atashi wa yuurei anata ni mienai
+hitohira no omoi mo tsutawaranai
+soredemo ai o atashi no namae o
+oshietehoshii no sono kuchi kara
+hyururu
+
+ofune no MELON ni KNIFE to FORK
+kirei ni naranda TABLE no ue de
+anata wa oishisou ni soitsu o tabeta
+atashi wa kagami no naka de hitasura
+anata ga ikiteru sugata o miteita
+
+atashi no karada wa hantoumei de
+misukasu mono nado nanimo nai ya
+soredemo yappari namida ga deru no
+onegai yo anata no sono hitogoto de
+atashi no karada ni chi o megurasete
+
+atashi wa yuurei anata wa shiranai
+namida no riyuu mo sono iro sae mo
+soredemo kitto kawarazu ni zutto
+anata ga suki yo baka mitai ne
+hyururu
+
+rarura rarira rattaruttattaruraira
+
+atashi wa yuurei anata ni mienai
+hitohira no omoi mo tsutawaranai
+soredemo ai o atashi no namae o
+oshietehoshii no sono kuchi kara
+
+atashi wa yuurei anata wa shiranai
+namida no riyuu mo sono iro sae mo
+soredemo kitto kawarazu ni zutto
+anata ga suki yo baka mitai ne
+hyururu
+atashi wa yuurei - end
+
+will-o-wisp - start
+uchisuterareta kousokudouro o arukitsuzuketeiru
+minna ichiretsu ni narande wa geragera warainagara
+
+inu mo neko mo niwatori mo hikitsure machi o nukedashitanda
+konna ni sekai ga hiroi koto shirazu ni itanda na
+
+minna ga utatta ano uta ni dete kita kuni ni
+bokura wa iku yo koe o agete furimukanai yo
+
+nee waraou te o totte hora
+kanashimi o harau tame ni
+mou nido to mayowanai
+yakusoku shita yo ne
+mama papa mama
+ima mo aitai yo
+demo ne boku wa iku yo
+
+daremo inai machi kara machi e to yuku bokura no bouken wa
+kudaranai koto o shaberiai mi o yoseatte uta o utau
+
+kaeru basho ga nakunatte zuibun tachi kanashimi ni mo narete
+sore demo bokura no mainichi wa mada owaranai mama
+
+wasurerarenai yo donna toki mo ano hi no koto o
+bokura wa iku yo kitto iku yo mou nakanai kara
+
+nee ima wa nanimokamo ga
+utsukushiku mierunda
+mou boku wa machikirenai
+ano hikaru hou e
+mama papa mama
+minna de ikunda
+samishikunainda yo
+
+kikoeru yo utagoe to dareka ga bokura o yobu koe
+koko ni iru yo mitsuketeokure bokura no kono ashioto o
+
+nee waraou te o totte hora
+kanashimi o harau tame ni
+mou nido to mayowanai
+yakusoku shita yo ne
+mama papa mama
+ima mo aitai yo
+demo ne boku wa iku yo
+
+ima mo aitai yo
+itsudemo omotteiru yo
+will-o-wisp - end
+
+undercover - start
+{...}
+undercover - end
