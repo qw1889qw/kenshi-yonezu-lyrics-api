@@ -77,7 +77,7 @@ anmari kyuu ni warau no de
 chotto byoujaku na SEVENTEEN
 kyou mo eiga mitai na yumeutsutsu
 ai mo taedae no keshiki da
-soko de donna yume mite mo shouganai
+soko de donna yume mite mo shou ga nai
 
 mawaru zenmai no ANDROID
 obutsu yankii kougai MELANCHOLY
@@ -376,7 +376,7 @@ hai ni narisou na madoromu machi o
 anata to tomo ni oiteiku no sa
 
 kotoba o haite karada ni furete
-sore demo nanimo ienai boku da
+soredemo nanimo ienai boku da
 aishiteru yo, VIVI
 aishiteru yo, VIVI
 sayonara dake ga bokura no ai da
@@ -638,7 +638,7 @@ taiyou mo aoku nuritsubushita
 
 kitto mata anata wa yasashikunatte
 atashi ni hana o okuru no darou
-sore demo atashi wa sabishikute
+soredemo atashi wa sabishikute
 mata namida o saite warau no da
 rin to sumu kokoro ga hitori ni natte
 anata to chigau atashi o shiru
@@ -652,7 +652,7 @@ atashi no kokoro no ichibu darou
 
 kitto mata yureru gairoju no soba de
 watashi no kage ni kizuku no darou
-sore demo atashi wa ureshikute
+soredemo atashi wa ureshikute
 subete o sutesatte naita no da
 matsuge no shita kara e no gu no you na
 kokoro no ichibu ga ochiteiku
@@ -661,7 +661,7 @@ sore ja atashi wa dou darou na
 
 kitto mata anata wa yasashikunatte
 atashi ni hana o okuru no darou
-sore demo atashi wa sabishikute
+soredemo atashi wa sabishikute
 mata namida o saite warau no da
 rin to sumu kokoro ga hitori ni natte
 anata to chigau atashi o shiru
@@ -1655,7 +1655,7 @@ hitotsu tashika ni oboeterunda na
 
 mou ikkai nankai yattatte
 omoidasu no wa sono kao da
-sore demo anata ga nandaka
+soredemo anata ga nandaka
 omoidasenai mama de irunda na
 
 kanjousen wa chikyuugi o
@@ -1702,7 +1702,7 @@ namida ga derunda doushiyou mo nai manma
 
 kono mune ni aita ana ga ima
 anata o tashikameru tada hitotsu no shoumei
-sore demo boku wa munashikute
+soredemo boku wa munashikute
 kokoro ga chigiresou da doushiyou mo nai manma
 
 kantan na kanjou bakka kazoeteitara
@@ -1771,7 +1771,7 @@ bokura o kobamu no ka
 nanika kara mamoru tame nano ka
 wakarazu ni tachisukunderu
 
-sore demo ureshii no sa
+soredemo ureshii no sa
 kimi to michi ni mayoeru koto ga
 takusan o wakeaeru no ga
 FLOWERWALL bokura ima futari de ikiteiku koto o
@@ -1822,7 +1822,7 @@ kono machi ni mizu o motarashite
 ieru no o matteiru
 boku wa kuyamitsuzuketeiru
 
-sore demo asu wa kuru
+soredemo asu wa kuru
 zange no machi - end
 
 petrichor - start
@@ -1880,7 +1880,7 @@ koko dewa nai tooku no hou e
 
 ima wa shinjinai hate no nai kanashimi o
 taiyou o miteita jimen ni tachisukunda mama
-sore demo bokura sora o tobou to yume o mite asa o tsunaideiku
+soredemo bokura sora o tobou to yume o mite asa o tsunaideiku
 subete uketomete issho ni waraou ka
 
 TAILLIGHT ni michibikarete
@@ -1915,7 +1915,7 @@ geragera waratte yarou ze
 
 ima wa shinjinai hate no nai kanashimi o
 taiyou o miteita jimen ni tachisukunda mama
-sore demo bokura sora o tobou to yume o mite asa o tsunaideiku
+soredemo bokura sora o tobou to yume o mite asa o tsunaideiku
 subete uketomete issho ni waraou ka
 unbelievers - end
 
@@ -2074,7 +2074,7 @@ sore wa kodomo no koro ni mita mono no tada no saijouei
 tatoe sekai ga kawaranaku tomo itsumademo sakebu yo sono kotae o"
 
 koko wa gekijougai kankyaku mo mabara
-sore demo kuruinaku enja wa utau hikari no mukou de
+soredemo kuruinaku enja wa utau hikari no mukou de
 natsukashii you na tsumaranai you na
 tada hitasura sore o usu bonyari to mite toki wa sugiteiku
 
@@ -2168,7 +2168,7 @@ daremo inai machi kara machi e to yuku bokura no bouken wa
 kudaranai koto o shaberiai mi o yoseatte uta o utau
 
 kaeru basho ga nakunatte zuibun tachi kanashimi ni mo narete
-sore demo bokura no mainichi wa mada owaranai mama
+soredemo bokura no mainichi wa mada owaranai mama
 
 wasurerarenai yo donna toki mo ano hi no koto o
 bokura wa iku yo kitto iku yo mou nakanai kara
@@ -2197,5 +2197,797 @@ itsudemo omotteiru yo
 will-o-wisp - end
 
 undercover - start
-{...}
+dou yatte agaitatte nigerare ya shinai mon datte
+rikai shitemitatte doushiyou mo nai
+saa kon'ya nigedasou ze arittake no okashi motte
+kitto yaku ni tatsu to juu mo tazusaete
+
+HAPPY na END ga iinda yo dare datte yorokoberu mitai na sa
+sonna koto o omoinagara boku wa zutto ikiteiku no ka
+itsuka moshi boku no kokoro ga kanzen ni mitasareta to shita nara
+sono shunkan ni boku wa hikigane o hikitai
+
+donna ima mo nomikondeikeba kako ni kawatteiku
+susumu hou wa tada hitotsu
+itsudatte sa kono taikutsu o kamichigiri boku wa
+kakenukete ai ni ikunda
+ano TUNNEL no saki e sa
+
+kantan ni omoetatte umaku wa ikanaindatte
+mou sanzan tashikameta koto datta no ni
+mou ii ya nante itte hikikaesou to shitatte
+ittai zentai doko e to kaeru no desu ka
+
+LUCKY na HIT de iinda yo konna kurushimi o ajiwau yori
+sonna koto o omoinagara boku wa kitto ikiteikunda na
+itsuka moshi boku no kokoro ga kanzen ni mitasareta to shita nara?
+sono shunkan e tadoritsuku ni wa dou sureba?
+
+donna ima mo waratteiru uchi ni sabitsuiteikunda
+atomodori wa muri na mon da
+itsudatte sa fuan no hara ni KNIFE o tsukisashite
+yamikumo ni te o nobashita
+nani o tsukamu ya shirazu ni
+
+donna ima mo nomikondeikeba kako ni kawatteiku
+susumu hou wa tada hitotsu
+itsudatte sa kono taikutsu o kamichigiri boku wa
+kakenukete ai ni ikunda
+
+keshisatte yo kono urei mo subete koppamijin ni shite sa
+yukeru hou e tada mukou e
+sonja ima wa nanimo utawanai yoru ni shizumou ka
+yagate kuru asa o matte
 undercover - end
+
+neon sign - start
+sagashimotometa kanjou ga doko ni mo mitsukarazu tohou ni kureta shougo ni
+kawacchatta futari ga wakachiau koto nado arienai to kizuita
+
+tooi ano hi no omoide ja bokura wa tomodachi waraiatte sugoshiteita
+doushite sore ga konna ni mo chigau kotoba de utai kizutsukeatteshimau no ka
+
+tashikameatte chikaiatte tsuriageta no ni kuzure ni kuzureta baberu no tou
+bokura wa douka kore ijou wa kanashimanai you ni betsubetsu ni arukidashita
+
+baibai itsu no hi ka mata deaou ze itsu ni naru no ka wa shiranai kedo
+dou demo ii koto o torikimete ima wakare no soba de waraiatta
+kono mama yukou ano hi no omoi o hikizurinagara soredemo ikou
+
+kazoekirenai kanjou ga tomedonaku waite tohou ni kureta yuuma ni
+riyuu ga hoshikunattanda "dareka ga warui" tte iihanatteshimaeru you na
+
+te o toriatte omoiatte yubikiri shita no ni furikaetteshimai shio no hashira
+bokura wa douka kore ijou wa utagawanai you ni mou ichido yubikiri shita
+
+baibai konna hi mo kore de saigo da douka kore ijou nanimo iu na
+anna yubikiri wa shitakunakatta yo sore wa boku dake kamoshiran ga
+kono mama yukou ano hi no omoi o hikizurinagara soredemo ikou
+
+baibai itsu no hi ka mata deaou ze itsu ni naru no ka wa shiranai kedo
+dou demo ii koto o torikimete ima wakare no soba de waraiatta
+kono mama yukou ano hi no omoi o hikizurinagara soredemo ikou
+
+raisei no mukou umarekawatte deaeru toki wa yoroshiku negau
+neon sign - end
+
+metronome - start
+hajime kara bokura deau to kimatteta naraba dou darou na
+soshitara konna hi ga kuru koto mo onnaji you ni kimatteita no kana
+
+zutto kawanai omoi bakari o tsunoraseteite wa
+tagai ni kizutsukeatte semetateatta
+tada omotteta da nante iiwake mo dekizu ni
+sariyuku suso sae tsukamenaideita
+yowakatta boku da
+
+kyou ga donna hi demo nani o shiteiyou tomo
+boku wa anata o sagashiteshimau darou
+tsutaetai omoi ga tsunotteiku mama
+hitotsu mo heranai boku o
+waraitobashitehoshiinda
+
+ajikenai fuukei da anata ga inai no nara donna basho darou to
+deau mae ni modotta dake nano ni doushite darou ka nanika chingaunda
+
+kitto bokura wa futatsu naranda METRONOME mitai ni
+mizandeita tagai no TEMPO wa onaji de ita no ni
+itsushika sukoshizutsu zurehajimeteita
+jikan ga tatsu hodo hanareteiku no o
+tomerarenakute
+
+kore kara bokutachi wa doko e iku no kana
+subete wasurete ikiteikeru no kana
+anata ga ima donna ni shiawase demo
+wasurenaidehoshiinda
+boku no naka ni wa itsumo
+
+surechigatte senakaawase ni aruiteiku
+jidai ni mienakunatteiku
+kore kara mo onaji TEMPO de ikitsuzuketara
+chikyuu no uragawa de itsuka
+mata deaeru kana
+
+kyou ga donna hi demo nani o shiteiyou tomo
+boku wa anata o aishiteshimau darou
+tsutaetai omoi ga tsunotteiku mama
+hitotsu mo heranai boku o
+waraitobashitehoshiinda
+
+anata ga itehoshiinda
+metronome - end
+
+ame no gairo ni yakouchuu - start
+furueteita no wa kimi no te ka boku no te no hou ka
+machi no LIGHT ga ame ni terasarete hajikeru yoru ni
+
+bokura wa tada otona ni naritakute senobi o shite
+chiguhagu na kotoba o kawashiatte waraiattanda
+futari de dattara ikeru yo ne chikyuu no sumikko e
+
+daremo shiranai yakusoku o
+kawashiatte bokura aruiteikunda
+oogesa na hodo ni ai o utau yo
+kanashii uta o nuritsubusu you ni
+
+aimai na tsukuri no machigaisagashi mitai datta
+nani ga machigai de nani ga tadashii ka wakaranai
+
+bokura wa tada "kore de tadashiinda" to tsuyogatta kedo
+hontou wa wakatteta yo michi no saki ni nani ga aru no ka
+nando datte chikaiatte ima chikyuu no sumikko e
+
+daremo shiranai yakusoku ga
+kasanatta te to te ni ni nigirareta
+baka ni saretatte ai o utau yo
+kimi to dokomademo ikeru you ni
+
+samenaide tte kienaide tte
+baka mitai ni negatteirunda
+doko ni datte ikerunda tte
+barebare no uso o tsuiteita
+
+daremo shiranai yakusoku o
+kawashiatte bokura aruiteikunda
+oogesa na hodo ni ai o utau yo
+kanashii uta o nuritsubusu you ni
+
+kietai toki mo kimochi ii toki mo
+itsudatte soba ni irareru you ni
+daremo shiranai yakusoku ga
+tsuyomaru ame ni nagarenai you ni
+
+kimi to dokomademo ikeru you ni
+ame no gairo ni yakouchuu - end
+
+cinderella gray - start
+nee doushite, sou yatte atashi no koto baka ni shite
+yasashisa toka nagusame toka ataeyou to suru no?
+sono tabitabi ni mijime na omoi ga waitekite
+doushiyou mo nai kimochi ni naru tte wakattenai no?
+
+ironna iro de michiafureta machi o aruitatte
+irozukanai atashi wa gurei doko e ikeba ii no?
+jibun no suki na you ni ikiteikeba ii tte
+shitteiru hazu nano ni sa wasurechaunda itsumo itsumo itsumo
+
+omoidashitaku mo nai you na koto ga itsumademo kienai na
+gushagusha no atama no naka hitotsu mo seiri ga tsukazu ni
+mata omoidashita
+
+kowakatta no ni tsurakatta no ni daremo shinjitekurenakatta no ni
+anata dake ga sono koe dake ga itsudemo waraikaketekureta no ni
+
+kabocha no basha mo garasu no kutsu mo niawanakute
+tada hitasura nanigoto mo nai hibi no ariawase
+kono sekai wa doumo azayakasugite me ga kuramu
+irozuke ya shinai atashi e no atetsuke mitai de
+
+mou ii you, dou narou to nanimokamo shiranai shi
+anata no koto atashi no koto kore kara no subete mo
+"nee DARLING, atashi no tame ni ikite" tte iitakute
+ienakatta ano hi no jibun ga kirai kirai kirai
+
+doko e datte ikeru you na jiyuu nante hoshiku wa nai na
+anata to iu fujiyuu dake ga atashi o jiyuu ni shiteitanda tte
+kizuiteshimattanda
+
+itamu kokoro ienai no wa buzama na hodo ni kitai shiteru kara
+anata dake ni sono koe dake ni yasashiku saretakatta dake datta no ni
+
+"ai wa eien" tte dareka no dareka no dareka ga itta
+sore ga moshi hontou nara itsu made kurushimeba ii no?
+juuniji o koete zutto kienai mono ga aru nante
+onegai yo mou keshite keshite keshite keshite
+
+kowakatta no ni tsurakatta no ni daremo shinjitekurenakatta no ni
+anata dake ga sono koe dake ga itsudemo waraikaketekureta no ni
+
+itamu kokoro ienai no wa buzama na hodo ni kitai shiteru kara
+anata dake ni sono koe dake ni yasashiku saretakatta dake datta no ni
+cinderella gray - end
+
+mirage song - start
+itsudatte boku wa kimi no kami no ke o nadetai to omotta
+sono koe wa itsuka kieteshimau kara sa
+ashita no sekai ga mata sukoshi chikazuku tabi ni boku wa
+nokosareta kyou o kanji kushami o suru
+
+teridashita taiyou nigemizu de nureta douro o aruita
+fushigi na kurai no shizukesa ni mamirete
+sugisatteshimatta hibi wa nido to modoranai to shitta
+ano hi no kioku mo tooku sawarenai mama
+
+nani o kanashimu koto ga aru? kore hodo akarui hi no sashikomu basho de
+nani o utagau koto ga aru? tonari ni itsumo kimi ga iru no ni
+
+ikiteikeba ima ikiteiku hodo
+sawarenai mono ga fueru
+nanimo te ni irechainai no ni
+nakushiteiku ki ga surunda
+doushite
+
+itsudatte boku wa kimi no kami no ke o nadetai to omotta
+sono koe wa itsuka kieteshimau kara sa
+"ashita no sekai mo onaji you ni ikiteirareru no kana"
+shinkirou no naka de kinou no boku ga iu
+
+nani o kowagaru koto ga aru? ubai mo atae mo dekinai kuse ni
+nani o motomeru koto ga aru? tonari ni itsumo kimi ga iru no ni
+
+chikazukeba ima chikazuku hodo
+shiranai kimi ga fueru
+nanimo iranai sa iranai no ni
+monotarinai ki ga surunda
+doushite
+
+dondake tashikametemitatte
+dondake yobikaketemitatte
+Itsudatte kimi wa soko ni ite
+hohoendekureru no ni
+
+bokutachi ga ikiru koko wa ima
+shitsubou de michiteiru da nante
+sonna koto iitaku wa nainda
+sore dake sa hontou sa
+
+ikiteikeba ima ikiteiku hodo
+sawarenai mono ga fueru
+nanimo te ni irechainai no ni
+nakushiteiku toshite mo
+
+ikiteikeba ima ikiteiku hodo
+itooshii ima mo fueru
+nanimo te ni irechainai kedo
+nakusenai mono ga arunda
+MIRAGE SONG
+mirage song - end
+
+hopeland - start
+dareka ga ibitsu de aru koto o daremo ga yurusenai basho de
+kimi wa ima doko ni mo ikenaide iki o koroshiteitandeshou
+
+donna ni atarimae no koto mo kimi o kurushimeteshimau kara
+hitasura sunao ni ikiteita sore dake no koto datta no ni
+
+iware no nai uwasa ya kegarekitta ano kotoba ni
+madowasarenaideokure sore ga sekai no subete janai
+
+SONG FOR YOU kikoeteiru?
+itsudemo koko ni oide yo ne
+sonna uta todoitara
+ato wa kimi shidai
+
+itsudatte sono te ni choudo ii nikumeru teki o sagashiteiru
+sou yatte hitori o tsurushiage minna de waraiaundeshou
+
+jibun no koto o aisenu mama nanimo erabenai mama
+nigedasu koto sae dekinai kimi o itsumo miteita
+
+yoshiashi wa minna shidai warui ko wa jiyuu ni shicha ikenai
+sou yatte tsukurareta mono ni ikutsu mo koe o ubawarete
+
+SONG FOR YOU oboeteiru?
+bokura wa hajimemashite janai
+onnaji mono o motte
+tooku tsunagatteru
+
+umi ga mieru ano terasu kara koe ga kikoeru
+kedaruge na hikage no naka de neko ga naiteiru
+aozora o shiroku kirinuita tori ga tondeiru
+
+kono machi wa kimi no uta o utau kimi ga doko ni iyou tomo
+itsumademo
+
+SONG FOR YOU kikoeteiru?
+itsudemo koko ni oide yo ne
+sonna uta todoitara
+ato wa kimi shidai
+
+SONG FOR YOU oboeteiru?
+bokura wa hajimemashite janai
+onnaji mono o motte
+tooku tsunagatteru
+hopeland - end
+
+blue jasmine - start
+anata no omoidebanashi o kiku tabi tsuyoku kanjiteirunda yo
+boku wa sono kako hitotsu nokorazu subete to ikiteiru to
+
+sashidashita JASMINE no ocha de sae nakidashisou na kao o shite
+tomadoinagara kuchi o tsuketa anata o shitteiru yo
+
+takusan no michi o eraberu hodo jouzu ni wa ikirarenakatta kedo
+kokoro mo karada mo oboeteiru anata to nara ikiteirareru
+
+kore kara bokura wa doko e ikou? nee DARLING doko darou to kitto
+tonari ni anata ga iru nara sore dake de tokubetsu nanda
+KISS o shite waraiatte itazura mitai ni ikiteikou
+subete nakushite mo nakunaranai mono o mitsuketanda
+
+hiruma no hoshi mitai ni kakurete ima wa mienai to shite mo
+shiawase nante no wa doko ni demo korogariochiteita
+
+nemuru anata no mabuta no ue nagareru matsuge o miteiru
+boku wa kizuku kore kara no hibi ga shiawase datte koto
+
+dare to demo nakayoku dekiru hodo matomo ni wa kokoro hirakenakute
+demo anata nara hanaseru koto o anata no tame ni youi shiteita
+
+samishikutte shikata ga nakunatte sore sae kakusenakunatte
+anata no koe ga kikitakatta ano yoru o mada oboeteirunda
+kore kara mo onaji yoru o ikutsu mo kurikaesundarou
+sono tabi ni boku wa tashikameru kimi o aishiteru to
+
+sashidashita ocha o oishisou ni nomu kimi no sono egao ga
+ashita mo asatte mo sono mata saki mo kawaranakereba ii
+
+kore kara bokura wa doko e ikou? nee DARLING doko darou to kitto
+tonari ni anata ga iru nara sore dake de tokubetsu nanda
+KISS o shite waraiatte itazura mitai ni ikiteikou
+subete nakushite mo nakunaranai mono o mitsuketanda
+
+itsudemo boku wa tashikameru kimi o aishiteru to
+blue jasmine - end
+
+[LOSER/Number Nine (2016-09-28)]
+
+loser - start
+itsumodoori no toori hitori konna hibi mohaya korigori
+mou doko ni mo ike ya shinai no ni yumemite oyasumi
+itsudemo bokura wa konna fuu ni bonkura na yoru ni akiaki
+mata odori odoridasu ashita ni deau tame ni sayonara
+
+arukimawatte yatto tsuita koko wa dou da rakuen ka?
+ima to naccha mou wakaranai
+shihanseiki no kekka dekita
+aoi kao no SUPERSTAR ga onaka sukashite wa matteru
+
+I'M A LOSER douse dattara tooboe datte ii darou
+mou ikkai mou ikkai ikou ze bokura no koe
+I'M A LOSER zutto mae kara kikoeteta
+itsuka POCKET ni kakushita koe ga
+
+aa da no kou da no shitta mon ka saisaki no sora wa akutenkou
+hora mado kara nozoita matenrou kara surya chiri no you
+ian mo kaato mo mukashi no hito yo nakayubi tatete mo shou ga nai no
+ima kachiagaru tame no obenkyou hogaraka na hyoujou
+
+odoru aho ni miru aho warera sore o hata kara warau aho
+dekai jiishiki kakaekonde wa mou mamou surihette nokoru suppai budou
+hiza kakaete mo nan mo nee hora nagai maegami de mae ga mienee
+waratteshimau ne patto wakitatte fuwatto kiechaeru konna rinne
+aisaretai nara sou iou ze omotteru dake ja tsutawaranai ne
+eien no shukujo mo soppo muite tengoku wa tooku mukou no hou e
+
+aa wakatteru tte fukaku korogaru ore wa makeinu
+tada doko demo ii kara tooku e ikitainda sore dake nanda
+
+mimi o sumase tooku de ima hibikidashita oto o nogasu na kokyuu o totonoete
+itsuka wa dearu hazu no kogane no iro shita aioraito o
+kitto tsukande hanasu na
+
+I'M A LOSER nanmo nai nara dou natta tte ii darou
+udauda shite furafura shiteicha mae ni hai sayonara
+I'M A LOSER kitto itsuka tte negau mama
+susume LOST TIME no sono mata oku e ike
+
+aisaretai nara sou iou ze omotteru dake ja tsutawaranai ne
+eien no shukujo mo soppo muite tengoku wa tooku mukou no hou e
+kokoira de hitotsu odottemiyou ze yo ga akeru made korogatteikou ze
+kikoetennara koe dashiteikou ze
+
+I'M A LOSER douse dattara tooboe datte ii darou
+mou ikkai mou ikkai ikou ze bokura no koe
+I'M A LOSER zutto mae kara kikoeteta
+itsuka POCKET ni kakushita koe ga
+
+kokoira de hitotsu odottemiyou ze
+yo ga akeru made korogatteikou ze
+kikoetennara koe dashiteikou ze
+loser - end
+
+number nine - start
+aruiteta no wa sabaku no naka
+tooku ni mieta TOKYO TOWER
+kimi no daiteita boroi TEDDY BEAR
+waratte mieta doko e ikou ka
+
+umi mitai ni suna wa moeta
+katsute wa koko de hito ga ikita
+saki o isoida eichi no mure ga
+kowashita mono ni bokura wa tsuzuita
+
+madoi mo urei mo kaseki ni naru hodo
+uso mitai na mirai o omou
+setsunakunaru no mo bakarashii hodo
+yasashii mirai
+
+hazukashii kurai ikiteita bokura no koe ga
+tooku tooku made todoitara ii na
+dare mo inai mirai de okita kokyuu ga
+bokura o oboeteimasu you ni
+
+mabushikute sa me o tojitanda
+kareta kawa o tadorinagara
+honno mukou de kimi no koe ga
+yondeitanda tashika ni boku o
+
+mirai to kako ga hippariaunda
+kayowai bokura no ryoute o tsukande
+itamu koto ga inochi naraba
+aishitemitainda itami mo subete
+
+imada ni kokoro wa fuzoroi na mama de
+ikigurushikunaru yoru mo aru
+iiwake mitai na biishiki sura
+kiechau mirai
+
+suna ni ochita omoide ga iki o shiteita
+tooku tooku kara todoiteitanda
+dare mo inai mirai no bokura no koe ga
+utsukushiku areru you ni
+
+nanzen to kotoba eranda sue ni
+nanman to tatta bohyou no ue ni
+bokura wa ayundeikunda kitto
+warawanaide ne
+
+hazukashii kurai ikiteita bokura no koe ga
+tooku tooku made todoitara ii na
+dare mo inai mirai de okita kokyuu ga
+bokura o oboeteimasu you ni
+
+suna ni ochita omoide ga iki o shiteita
+tooku tooku kara todoiteitanda
+dare mo inai mirai no bokura no koe ga
+utsukushiku areru you ni
+
+nanzen to kotoba eranda sue ni
+nanman to tatta bohyou no ue ni
+bokura wa ayundeikunda kitto
+warawanaide ne
+number nine - end
+
+amen - start
+uma ga hashiru kuroi ASPHALT no ue
+susanda namiki kaze mo nashi kaoridasu ame no kehai
+toukyou wa furasuko no naka no fuukei
+mayoikonde wa naiteita no wa tooi tooi mukashi
+
+hikari no ori ni michikusa o sasou bourei
+kokonotsu no mon o toorinukete ano yama no fumoto e to
+karappo no kabin ni ikeru hana o sagashiteiru
+hazukashii kurai ikiisoideita tooi tooi mukashi
+
+onegai mama papa kono yo ni umareta sono imi o
+oshietehoshii no watashi ni
+kanashii omoide wa iranai kara tadatada utsukushii omoide o
+inori no kotoba o AMEN
+
+ikari ga michiru kuroi honoo o matotte
+douka watashi no kono kokoro o yurushitekure ya shinai ka
+samonakereba sono kiyoi ikazuchi o motte
+watashi no mi o hai ni naru made yaitekurenai ka
+
+oto o tatete moeru heya no naka hitori
+hagishiri mitai ni hinoko wa mau sanso o tabete sodatsu
+arigatou ima mi o yatsusu kujuu no subete ni
+saikai o negai kyou wa oyasumi mata ashita
+
+onegai mama papa kono yo ni umareta sono imi o
+oshietehoshii no watashi ni
+kanashii omoide wa iranai kara tadatada utsukushii omoide o
+inori no kotoba o AMEN
+amen - end
+
+[orion (2017-02-15)]
+
+orion - start
+anata no yubi ga sono mune ga sono hitomi ga
+mabushikute sukoshi memai ga suru yoru mo aru
+
+sore wa fui ni ochite kite amari ni mo atatakakute
+nomikonda nanairo no hoshi
+hajikeru hibana mitai ni gyutto boku o komaraseta
+sore de mata aruiteyukeru koto osowattanda
+
+kamisama douka douka koe o kikasete
+honno chotto de ii kara
+mou nido to hanarenai you ni
+anata to futari ano seiza no you ni
+musundehoshikute
+
+yume no naka de sae doumo jouzu janai kokoro guai
+ki ni shinaide tte nageita koto naiteita koto
+
+hotsureta sode no ito hipatte futto seiza o tsukuttemitanda
+otagai no yubi o hoshi to shite
+sore wa hidoku detarame de bokura waraiaetanda
+soko ni anata ga itekureta nara sore de iinda
+
+ima nara donna donna konnan de sae mo
+aishite miserareru no ni
+anmari ni yawaku musunda
+yoake no aida tada me o miteita
+awai iro no hitomi da
+
+masshiro de iru touki mitai na
+koe o shiteita fuyu no nioi ga
+kokoro no naka shizuka ni susamu
+arashi o kau yami no tochuu de
+ochitekitanda boku no zujou ni
+kirameku hoshi nakisou na kurai ni
+fureteitanda
+
+kamisama douka douka koe o kikasete
+honno chotto de ii kara
+mou nido to hanarenai you ni
+anata to futari kono seiza no you ni
+musundehoshikute
+orion - end
+
+lullaby sayonara - start
+itami mo kodoku mo subete omae ni nanka yaru mon ka
+mottainakute waraketa kaerimichi
+gakugeikai demo aru mai ni
+
+ushirogurai mono o honne to yonde
+arigatagaru roba no mimi ni
+sasakure darake no ari no mama
+douzo oishiku meshiagare
+
+gamigami urusee mendokusee ya
+takaga ikiru ka shinu ka daro
+douse daremo ga kawa no shita ni
+dokuro o katteikitenda
+
+saraba tooki hi no nijuuni seiki
+basuke tenshi shirafu no saru
+dare ga wasuretekureru no ka
+LULLABY sennengo ni okoshite
+
+itami mo kodoku mo subete omae ni nanka yaru mon ka
+mottainakute waraketa kaerimichi
+gakugeikai demo aru mai ni
+
+inochi wa daiji okane mo daiji
+unou de meshi kuu shakaijin
+tasogare majiri no manazashi to
+kutabireta shatsu no eri
+
+utsuro na kokoro o misebirakashite
+ahozura sagete doko e iku
+kage shika mitenee antara o
+aishiteru ze kokoro kara
+
+mechiru moumoku no sousofu ni
+fune no e o kaita HOMELESS ni
+saraba tooki hi no nijuuni seiki
+LULLABY konjou no owakare
+
+itami mo kodoku mo subete omae ni nanka yaru mon ka
+mottainakute waraketa kaerimichi
+gakugeikai demo aru mai ni
+lullaby sayonara - end
+
+hisui no ookami - start
+kodoku no samishisa kamikudaite wakitatsu omoi ni mimi o katamukete
+nukarumi fumitsuke aruiteike arashi no naka namida nashinagara
+hisui no ookami wa mata nageku sono mi ni yadosu utsukushisa mo shirazu
+takame no gake o mae ni hora nageku dareka no chikara karirya raku nano ni
+
+moujiki dareka tomodachi ga kuru sa
+kuchibue fukinagara yume o miteita
+
+doko made iku no ka kimete nanka nai ga
+hitasura anata ni aitai dake
+shiranai aida ni tooku made kita ga
+atatakai basho wa mada mukou ka
+
+ringo no hana saku haru no hi made kokoro no mejirushi kumorasenai you ni
+fubuki ni sarasare aruiteike munashisa kakae konton no sanaka made
+hisui no ookami wa taemanaku wagami ni ikari o mukete wa uta o utau
+tatakae dare ni mo shirarenu mama sore de jibun o aiseru no naraba
+
+kakegae no nai mono wa nan daro na
+kakato narashinagara machibouke da
+
+kesenai kioku to kurushimi no naka de
+owari ga kuru no o tada matsu dake
+kono yo de dare yori kirei na anata ni
+aishiteiru yo to tsutaeru made
+
+doko made iku no ka kimete nanka nai ga
+hitasura anata ni aitai dake
+shiranai aida ni tooku made kita ga
+atatakai basho wa mada mukou ka
+
+kesenai kioku to kurushimi no naka de
+owari ga kuru no o tada matsu dake
+kono yo de dare yori kirei na anata ni
+aishiteiru yo to tsutaeru made
+hisui no ookami - end
+
+[Peace Sign (2017-06-21)]
+
+peace sign - start
+itsuka bokura no ue o suresure ni
+toorisugiteitta ano hikouki o
+fushigi na kurai ni oboeteru
+imi mo nai no ni nazeka
+
+fugainakute naita hi no yoru ni
+tada tsuyokunaritai to negatteta
+sono tame ni hitsuyou na yuuki o
+sagashimotometeita
+
+zankoku na unmei ga sadamatteru to shite
+sore ga itsu no hi ka boku no mae ni arawareru to shite
+tada isshun kono isshun iki ga dekiru nara
+dou demo ii to omoeta sono kokoro o
+
+mou ichido tooku e ike tooku e ike to boku no naka de dareka ga utau
+doushiyou mo nai hodo netsuretsu ni
+itsudatte me o harashita kimi ga nido to kanashimanai you ni waraeru
+sonna HERO ni naru tame no uta
+saraba kakagero PEACE SIGN
+korogatteiku STORY o
+
+mamoritai da nante ieru hodo
+kimi ga yowaku wa nai no wakatteta
+sore ijou ni boku wa yowakute sa
+kimi ga daiji dattanda
+
+"hitori de ikiteikunda" nante sa
+kuchi o tsuite sakenda ano hi kara
+kawatteiku boku o waraeba ii
+hitori ga kowai boku o
+
+ketobashite kamitsuite iki mo dekinakute
+sawagu atama to hara no oku ga gushagusha ni nattatte
+terai mo keren mo kieteshimau kurai ni
+ima wa sawatteitainda kimi no kokoro ni
+
+bokutachi wa kitto itsuka tooku hanareta taiyou ni sura te ga todoite
+yoakemae o te ni irete waraou
+sou yatte aoku moeru iro ni somari oboroge na machi no mukou e
+te o tsunaide hashitteikeru hazu da
+kimi to mirai o nusumi egaku
+hineri no nai STORY o
+
+kasabuta darake arakureta hibi ga
+kezuri kezurare surikireta ima ga
+kimi no kotoba de yomigaeru
+azayaka ni mo arawareteiku
+sanagi no mama de nemuru tamashii o
+tabekake no mama suteta ano yume o
+mou ichido torimodose
+
+mou ichido tooku e ike tooku e ike to boku no naka de dareka ga utau
+doushiyou mo nai hodo netsuretsu ni
+itsudatte me o harashita kimi ga nido to kanashimanai you ni waraeru
+sonna HERO ni naru tame no uta
+saraba kakagero PEACE SIGN
+korogatteiku STORY o
+
+kimi to mirai o nusumi egaku
+hineri no nai STORY o
+peace sign - end
+
+neighbourhood - start
+konogoro hidoi yume o miru kodomo no koro no fuukei
+tabako no kemuri de michita shiroi shokutaku da
+kusarikake no shiawase ichinichi hitokirezutsu
+tsuzuku taemanai hisuterii ato wa taida dake
+
+heiwa mo heiwa de hedo ga deta
+tooku kikoeru BARBARA ALLEN
+
+doushitandai naa kyoudai ore ga wakaru kai?
+omae ga yuruseru kurai no otona ni nareta kana
+mou ii kai naa kyoudai kokora de oshimai de
+nante amaetecha omae ni mo kirawarechau no kana
+
+kata o yoseatte ikiteiku chiisa na hikage no mushi
+shinbun no moji wa chiisaku terebi wa urusai
+migimagari no TRUCK ni makikomaretarashii yo
+ano ko ga kureta GUNDAM mada nokotteru kana
+
+ariamatteru jikan o itazura ni tokashiteiku
+dou sureba ii no ka wakaranai sore mo wakaranai
+konogoro hidoi yume o miru kodomo no koro no fuukei
+tabako no kemuri de michita shiroi shokutaku da
+
+heiwa mo heiwa de naketekita
+mimi ni nokoru BARBARA ALLEN
+
+doushitandai naa kyoudai doko de naitendai?
+sore wa omae ni wa niawanai sugu ni nugisutetoke
+mou ii kai naa kyoudai soredemo yamerannai
+niyakewarai kamashite gozen yoji sore wa sore de tanoshii
+
+ikirarenai na tte toire no kagami no mae de naiteta
+nigedase sono machi o tobase tobase tobase warae warae warae
+
+teiki o kau kurai no matomatta kane sura nakute
+mainichi kippu de sumashite mushiro kane kakaru
+kitto yume wa kanau nante uso o hajime kara shinjichainakatta
+soredemo nao koko made koreta omae wa dou shitai?
+
+doushitandai naa kyoudai ore ga wakaru kai?
+omae ga yuruseru kurai no otona ni nareta kana
+mou ii kai naa kyoudai kokora de oshimai de
+nante amaetecha omae ni mo kirawarechau no kana
+neighbourhood - end
+
+yumekui shoujo - start
+BOUGAINVILLEA no hana ga saita
+kyuusuitou no ue de
+mayoiboshi o sagashiteiru
+shiwagare no sora made
+
+ibasho ga nai
+ehon mo nai
+kounotori wa
+akanbou o tsuresari kieta
+
+kimi no warui yume mo
+watashi ga zenbu tabeteageru
+itai no itai no tondeike
+yasuraka na utagoe o
+
+BOUGAINVILLEA no hana ga saita
+kyuusuitou no ue de
+yoake wa ajisai no you
+nemuru mio wa toumei ni
+
+furuete wa
+kikoenai furi o
+madoromi ga
+kimi o kizutsukete yamanainda
+
+omoide no hanashi o
+katatteokure yo aimai na kakkou de
+sosogareta yami sae nomihoshite
+iki o haku awai koe
+
+aa rinkaku o ushinatteshimatta
+kimi dake ni komoriuta o!
+
+kimi no warui yume mo
+watashi ga zenbu tabeteageru
+sono namida de mune ga itai no
+
+amari ni zankoku de
+oboreta yoru mo soba ni iteokure
+kono asa ni futari yume o mita
+nomikomu no ga kowai hodo
+hikari o nonda awai yume
+yumekui shoujo - end
+
+[BOOTLEG (2017-11-01)]
+
+hien - start
+{...}
+hien - end
