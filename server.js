@@ -14,6 +14,13 @@ const handleErr = err => {
   if (err) throw err;
 };
 
+const getHelp = stream => {
+  fs.readFile('assets/help.txt', (err, data) => {
+    handleErr(err);
+    stream.end(data.toString());
+  });
+};
+
 const getLyrics = (song, version, stream) => {
   // either lyrics-jp.txt or lyrics-ro.txt
   const file = `assets/lyrics-${version}.txt`;
@@ -46,8 +53,11 @@ http.createServer((req, res) => {
   if (req.url !== '/favicon.ico') {
     const urlParts = req.url.split('/');
     const language = sanitize(urlParts[1]);
-    // make sure user chooses either original lyrics or romaji
-    if (!(['jp', 'ro'].includes(language))) {
+    // serve help file
+    if (language === 'help') {
+      sendHead(res, true);
+      getHelp(res);
+    } else if (!(['jp', 'ro'].includes(language))) {
       sendHead(res, false);
     } else {
       let titleDecoded;
