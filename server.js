@@ -8,6 +8,7 @@ const {
   convertHiragana,
   convertEnglish
 } = require('./helpers/convert-hiragana');
+const sendHead = require('./helpers/send-head');
 
 const handleErr = err => {
   if (err) throw err;
@@ -21,8 +22,9 @@ const getLyrics = (song, version, stream) => {
     // where do song lyrics start
     const start = data.indexOf(`\n${song} - start\n`);
     if (start === -1) {
-      stream.end('not found');
+      sendHead(stream, false);
     } else {
+      sendHead(stream, true);
       // where do song lyrics end
       // \n just in case two songs' titles end the same way & we don't get the right match
       // (no problem so far)
@@ -43,13 +45,10 @@ http.createServer((req, res) => {
   // don't want anything to do w/ favicon.ico
   if (req.url !== '/favicon.ico') {
     const urlParts = req.url.split('/');
-    res.writeHead(200, {
-      'Content-Type': 'text/plain;charset=utf-8'
-    });
     const language = sanitize(urlParts[1]);
     // make sure user chooses either original lyrics or romaji
     if (!(['jp', 'ro'].includes(language))) {
-      res.end('not found');
+      sendHead(res, false);
     } else {
       let titleDecoded;
       // regardless of language, replace certain characters (listed in helpers/sanitize.js)
