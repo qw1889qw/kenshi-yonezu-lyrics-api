@@ -10,13 +10,15 @@ const {
 } = require('./helpers/convert-hiragana');
 const sendHead = require('./helpers/send-head');
 
-const handleErr = err => {
-  if (err) throw err;
+const handleErr = (err, stream) => {
+  if (err) {
+    sendHead(stream, 500);
+  }
 };
 
 const getHelp = stream => {
   fs.readFile('assets/help.txt', (err, data) => {
-    handleErr(err);
+    handleErr(err, stream);
     stream.end(data.toString());
   });
 };
@@ -25,13 +27,13 @@ const getLyrics = (song, version, stream) => {
   // either lyrics-jp.txt or lyrics-ro.txt
   const file = `assets/lyrics-${version}.txt`;
   fs.readFile(file, (err, data) => {
-    handleErr(err);
+    handleErr(err, stream);
     // where do song lyrics start
     const start = data.indexOf(`\n${song} - start\n`);
     if (start === -1) {
-      sendHead(stream, false);
+      sendHead(stream, 404);
     } else {
-      sendHead(stream, true);
+      sendHead(stream, 200);
       // where do song lyrics end
       // \n just in case two songs' titles end the same way & we don't get the right match
       // (no problem so far)
@@ -55,10 +57,10 @@ http.createServer((req, res) => {
     const language = sanitize(urlParts[1]);
     // serve help file
     if (language === 'help') {
-      sendHead(res, true);
+      sendHead(res, 200);
       getHelp(res);
     } else if (!(['jp', 'ro'].includes(language))) {
-      sendHead(res, false);
+      sendHead(res, 404);
     } else {
       let titleDecoded;
       // regardless of language, replace certain characters (listed in helpers/sanitize.js)
