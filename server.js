@@ -2,7 +2,12 @@ const http = require('http');
 const fs = require('fs');
 
 const sanitize = require('./helpers/sanitize');
+// note: decodeTitle uses sanitize
 const decodeTitle = require('./helpers/decode');
+const {
+  convertHiragana,
+  convertEnglish
+} = require('./helpers/convert-hiragana');
 
 const handleErr = err => {
   if (err) throw err;
@@ -46,7 +51,14 @@ http.createServer((req, res) => {
     if (!(['jp', 'ro'].includes(language))) {
       res.end('not found');
     } else {
-      const titleDecoded = decodeTitle(urlParts[2]);
+      let titleDecoded;
+      // regardless of language, replace certain characters (listed in helpers/sanitize.js)
+      if (language === 'jp') {
+        titleDecoded = convertHiragana(decodeTitle(urlParts[2]));
+      } else {
+        // all song titles in assets/lyrics-ro.txt are lowercase
+        titleDecoded = convertEnglish(decodeTitle(urlParts[2]).toLowerCase());
+      }
       // routing
       getLyrics(titleDecoded, language, res);
     }
