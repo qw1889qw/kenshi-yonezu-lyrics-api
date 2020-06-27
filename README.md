@@ -1,15 +1,19 @@
 # Kenshi Yonezu Lyrics API
 
-Lyrics (both original & romaji) for all songs by the legendary Kenshi Yonezu up to June 2020
+[日本語バージョンへのリンク](https://github.com/qw1889qw/kenshi-yonezu-lyrics-api/blob/master/README-jp.md)
+
+Lyrics (both original & romaji) for all songs by the current god of J-pop, Kenshi Yonezu 
+
+last updated: June 2020
 
 to use:
-- boot up server & go to localhost:3000
+- `npm start` & go to `localhost:3000`
 - for URL path:
-  - add jp for original lyrics or ro for romaji
+  - add `/jp/` for original lyrics or `/ro/` for romaji
   - type in title of song you want to get lyrics for
-  - e.g. to get original lyrics for Unbelievers, URL = http://localhost:3000/jp/アンビリーバーズ; to get romaji for Lemon, URL = http://localhost:3000/ro/Lemon
+    - e.g. to get original lyrics for Unbelievers, URL = `http://localhost:3000/jp/アンビリーバーズ`; to get romaji for Lemon, URL = `http://localhost:3000/ro/Lemon`
 - if a song title has spaces in its name (e.g. "Black Sheep"), you can type either a space or an underscore into the URL
-- to get the list of allowed song titles, go to http://localhost:3000/help
+- to get the list of allowed song titles, go to `http://localhost:3000/help`
 
 thanks to these sources for original lyrics:
 - vgperson.com
