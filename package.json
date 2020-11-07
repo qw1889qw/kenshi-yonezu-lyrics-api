@@ -17,5 +17,7 @@
     "eslint-plugin-import": "^2.21.2",
     "nodemon": "^2.0.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
