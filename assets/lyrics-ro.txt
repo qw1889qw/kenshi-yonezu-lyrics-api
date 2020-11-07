@@ -954,7 +954,7 @@ meimou shuutai zenbu sou da
 hikkurumete ai o sosoideitai
 
 BABY BABY-BY I LOVE YOU
-ima wa aza darake no uchuu de
+ima wa azadarake no uchuu de
 ai tomo iu sono bouryoku de
 kimi to futari de kenka shitai
 
@@ -1646,7 +1646,7 @@ kieteiku
 karma city - end
 
 donut hole - start
-itsu kara konna ni ooki na
+itsu kara konna ni ookina
 omoidasenai kioku ga atta ka
 dou ni mo oboetenai no o
 hitotsu tashika ni oboeterunda na
@@ -1963,7 +1963,7 @@ tooku e hikkoshita tte
 
 mune no oku kokoro no naka ni aru
 kudamono ga namida o suikomi
-sukoshizutsu ookiku narunda
+sukoshizutsu ookikunarunda
 sono tabi ni boku mo mata otona ni natteiku
 
 ringo remon budou meron
@@ -2066,7 +2066,7 @@ tatoe sekai ga kawaranaku tomo itsumademo sakebu yo sono kotae o"
 koko wa gekijougai kankyaku mo mabara
 soredemo kuruinaku enja wa utau hikari no mukou de
 natsukashii you na tsumaranai you na
-tada hitasura sore o usu bonyari to mite toki wa sugiteiku
+tada hitasura sore o usu bon'yari to mite toki wa sugiteiku
 
 koko de ikiteru boku wa kare to dou chigau no darou?
 nanimo dekinai mama de yaru ki mo naku tada kuchi o hiraite hibi o tsubusu boku to
@@ -2433,7 +2433,7 @@ doushite
 
 dondake tashikametemitatte
 dondake yobikaketemitatte
-Itsudatte kimi wa soko ni ite
+itsudatte kimi wa soko ni ite
 hohoendekureru no ni
 
 bokutachi ga ikiru koko wa ima
@@ -2742,7 +2742,7 @@ gakugeikai demo aru mai ni
 
 ushirogurai mono o honne to yonde
 arigatagaru roba no mimi ni
-sasakure darake no ari no mama
+sasakuredarake no ari no mama
 douzo oishiku meshiagare
 
 gamigami urusee mendokusee ya
@@ -2826,7 +2826,7 @@ fushigi na kurai ni oboeteru
 imi mo nai no ni nazeka
 
 fugainakute naita hi no yoru ni
-tada tsuyokunaritai to negatteta
+tada tsuyoku naritai to negatteta
 sono tame ni hitsuyou na yuuki o
 sagashimotometeita
 
@@ -2864,7 +2864,7 @@ te o tsunaide hashitteikeru hazu da
 kimi to mirai o nusumi egaku
 hineri no nai STORY o
 
-kasabuta darake arakureta hibi ga
+kasabutadarake arakureta hibi ga
 kezuri kezurare surikireta ima ga
 kimi no kotoba de yomigaeru
 azayaka ni mo arawareteiku
@@ -2897,7 +2897,7 @@ omae ga yuruseru kurai no otona ni nareta kana
 mou ii kai naa kyoudai kokora de oshimai de
 nante amaetecha omae ni mo kirawarechau no kana
 
-kata o yoseatte ikiteiku chiisa na hikage no mushi
+kata o yoseatte ikiteiku chiisana hikage no mushi
 shinbun no moji wa chiisaku terebi wa urusai
 migimagari no TRUCK ni makikomaretarashii yo
 ano ko ga kureta GUNDAM mada nokotteru kana
@@ -3755,7 +3755,7 @@ tadoritsuita basho wa doko da
 nando datte utatteshimau yo
 doko ni mo ikenainda to
 dakara koso anata ni aitainda to
-Ima ima ima
+ima ima ima
 
 wazurawashii kokoro sura
 itsuka wa subete hai ni naru no nara
