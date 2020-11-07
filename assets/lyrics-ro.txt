@@ -505,23 +505,25 @@ koko wa nigotta ori sou da nanimo ari wa shinai na
 
 nantonaku fuan de sa hi ni hi ni mainichi wa oiteiku
 sawagashii hakoniwa koko wa dareka no DIORAMA nano da
-[shiranakute ii shi shiritaku mo nai]
-[mata ashita subete o wakatta ki ni narunda na]
+shiranakute ii shi shiritaku mo nai
+mata ashita subete o wakatta ki ni narunda na
 
-[tanoshii koto ga matteiru sa] shararara
-[kuroi hitsuji ga kyuuhiki, juuppiki, juuippiki, juunihiki]
-[kuroi hitsuji ga juusanbiki, juuyonhiki, juugohiki, juuroppiki]
+tanoshii koto ga matteiru sa shararara
+kuroi hitsuji ga kyuuhiki, juuppiki, juuippiki, juunihiki
+kuroi hitsuji ga juusanbiki, juuyonhiki, juugohiki, juuroppiki
 
-[tanoshii koto ga matteiru sa] shararara
-[kuroi hitsuji ga juunanahiki, juuhappiki, juukyuuhiki, nijuuppiki]
-[kuroi hitsuji ga nijuuippiki, nijuunihiki, nijuusanbiki, nijuuyonhiki]
+tanoshii koto ga matteiru sa shararara
+kuroi hitsuji ga juunanahiki, juuhappiki, juukyuuhiki, nijuuppiki
+kuroi hitsuji ga nijuuippiki, nijuunihiki, nijuusanbiki, nijuuyonhiki
 
-[nijuugohiki, nijuuroppiki, nijuunanahiki, nijuuhappiki,]
-[nijuukyuuhiki, sanjuuppiki, sanjuuippiki, sanjuunihiki,]
-[sanjuusanbiki, sanjuuyonhiki, sanjuugohiki, sanjuuroppiki,]
-[sanjuunanahiki, sanjuuhappiki, sanjuukyuuhiki, yonjuuppiki,]
-[yonjuuippiki, yonjuunihiki, yonjuusanbiki, yonjuuyonhiki,]
-[yonjuugohiki]
+nijuugohiki, nijuuroppiki, nijuunanahiki, nijuuhappiki,
+nijuukyuuhiki, sanjuuppiki, sanjuuippiki, sanjuunihiki,
+sanjuusanbiki, sanjuuyonhiki, sanjuugohiki, sanjuuroppiki,
+sanjuunanahiki, sanjuuhappiki, sanjuukyuuhiki, yonjuuppiki,
+yonjuuippiki, yonjuunihiki, yonjuusanbiki, yonjuuyonhiki,
+yonjuugohiki,
+
+kuroi hitsuji ga
 black sheep - end
 
 hikarabita basu hitotsu - start
@@ -727,13 +729,9 @@ tenteki no you ni namida o otosu
 sono hitomi ga itsudatte anata nara
 ochikonda deinei no naka datte
 
-koko wa menkaishitsu saboten wa mada
-sakanai garasu wa kuzurenai
-sonna naka de ippon no rousoku ga
-tashika ni tomoritsuzukeru
-
-anata o mitsume
-anata ni mitsumerare
+koko wa menkaishitsu saboten wa mada sakanai garasu wa kuzurenai
+sonna naka de ippon no rousoku ga tashika ni tomoritsuzukeru
+anata o mitsume anata ni mitsumerare
 shinjiru koto o yamerarenai you ni
 
 santa maria nanimo iwanai sa
@@ -1734,25 +1732,21 @@ konna urei o fuite tobasu you ni
 
 FLOWERWALL me no mae ni irotoridori no hana de dekita
 kabe ga ima tachifusagaru
-bokura o kobamu no ka
-nanika kara mamoru tame nano ka
+bokura o kobamu no ka nanika kara mamoru tame nano ka
 wakarazu ni tachisukunderu
 
-sore o bokura wa "unmei" to yobinagara
+sore o bokura wa unmei to yobinagara
 itsumademo te o tsunaideita
 
-kono amari ni hiroi sekai de bokutachi wa
-imi mo naku onaji basho ni tatteta no ni
-boku no kaketa tokoro to kimi no kaketa tokoro o
-nazeka otagai ni motteita
+kono amari ni hiroi sekai de bokutachi wa imi mo naku onaji basho ni tatteta no ni
+boku no kaketa tokoro to kimi no kaketa tokoro o nazeka otagai ni motteita
 
 doushite bokura wa meguriaeta no ka
 sono tame dake ni umaretekita you na
 
 FLOWERWALL hitori dewa katazukerarenai mono darou to
 kimi ga itekuretara hora
-kagiri nai zetsubou mo
-kotae ga dasenai toi mo zenbu
+kagiri nai zetsubou mo kotae ga dasenai toi mo zenbu
 hitotsuzutsu irozuiteiku
 
 hanasenainda moshimo te o hanaseba
@@ -1760,24 +1754,20 @@ nido to tsukamenai you na ki ga shite
 
 daremo shiranai mita koto mo nai
 mono naraba ima bokura de namae o tsukeyou
-
 koko ga jigoku ka tengoku ka
-kimeru no wa sou
-futari ga eranda michi shidai
+kimeru no wa sou futari ga eranda michi shidai
 
 FLOWERWALL me no mae ni irotoridori no hana de dekita
 kabe ga ima tachifusagaru
-bokura o kobamu no ka
-nanika kara mamoru tame nano ka
+bokura o kobamu no ka nanika kara mamoru tame nano ka
 wakarazu ni tachisukunderu
 
-soredemo ureshii no sa
-kimi to michi ni mayoeru koto ga
+soredemo ureshii no sa kimi to michi ni mayoeru koto ga
 takusan o wakeaeru no ga
 FLOWERWALL bokura ima futari de ikiteiku koto o
 yamerarezu waraiaunda
 
-sore o bokura wa "unmei" to yobinagara
+sore o bokura wa unmei to yobinagara
 itsumademo te o tsunaideita
 flowerwall - end
 
@@ -2579,7 +2569,6 @@ hiza kakaete mo nan mo nee hora nagai maegami de mae ga mienee
 waratteshimau ne patto wakitatte fuwatto kiechaeru konna rinne
 aisaretai nara sou iou ze omotteru dake ja tsutawaranai ne
 eien no shukujo mo soppo muite tengoku wa tooku mukou no hou e
-
 aa wakatteru tte fukaku korogaru ore wa makeinu
 tada doko demo ii kara tooku e ikitainda sore dake nanda
 
@@ -2602,8 +2591,7 @@ mou ikkai mou ikkai ikou ze bokura no koe
 I'M A LOSER zutto mae kara kikoeteta
 itsuka POCKET ni kakushita koe ga
 
-kokoira de hitotsu odottemiyou ze
-yo ga akeru made korogatteikou ze
+kokoira de hitotsu odottemiyou ze yo ga akeru made korogatteikou ze
 kikoetennara koe dashiteikou ze
 loser - end
 
