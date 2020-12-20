@@ -1,6 +1,8 @@
 # 米津玄師の歌詞API
 
-[link to English version](https://github.com/qw1889qw/kenshi-yonezu-lyrics-api/blob/master/README.md)
+## アプリも作りました &#8594; https://kenshiyonezulyricsfinder.herokuapp.com/ja
+
+[link to English README](https://github.com/qw1889qw/kenshi-yonezu-lyrics-api/blob/master/README.md)
 
 米津玄師様の歌詞を提供するためのAPIです (STRAY SHEEPが出る前に)
 

@@ -1,6 +1,8 @@
 # Kenshi Yonezu Lyrics API
 
-[日本語バージョンへのリンク](https://github.com/qw1889qw/kenshi-yonezu-lyrics-api/blob/master/README-jp.md)
+## full app here &#8594; https://kenshiyonezulyricsfinder.herokuapp.com/en
+
+[日本語で書いたREADMEへのリンク](https://github.com/qw1889qw/kenshi-yonezu-lyrics-api/blob/master/README-jp.md)
 
 Lyrics (both original & romaji) for all songs by the current god of J-pop, Kenshi Yonezu 
 
